@@ -2,7 +2,7 @@ const plateBlog = [
     {
         title: "Ciambellone",
         content: "Ciambellone con zucchero",
-        image: "http://127.0.0.1:3000/img/ciambellone.jpg",
+        image: "http://127.0.0.1:3000/img/ciambellone.jpeg",
         tag: [
             "ciambellone",
             "zucchero"
@@ -11,7 +11,7 @@ const plateBlog = [
     {
         title: "Cracker di barbabietola",
         content: "Tagliere con cracker di barbabietola",
-        image: "http://127.0.0.1:3000/img/cracker_barbabietola.jpg",
+        image: "http://127.0.0.1:3000/img/cracker_barbabietola.jpeg",
         tag: [
             "cracker",
             "barbabietola"
