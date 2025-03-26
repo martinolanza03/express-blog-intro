@@ -14,8 +14,9 @@ app.get('/', (req, res) => {
 
 //Route /bacheca
 app.get('/bacheca', (req, res) => {
-    res.send(plateBlog);
+    res.json(plateBlog);
 })
+
 
 //Server port
 app.listen(port, () => {
