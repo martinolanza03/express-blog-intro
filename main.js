@@ -33,8 +33,8 @@ app.listen(port, () => {
 
 //Function create html 
 
-let postForBlog = '';
 function createHTML() {
+    let postForBlog = '';
 
     plateBlog.forEach(post => {
         postForBlog += `<div>  
